@@ -28,7 +28,7 @@
     "@actions/core": "^1.10.0",
     "@actions/github": "^5.1.1",
     "node-fetch": "^3.3.0",
-    "zod": "^3.20.2"
+    "zod": "^3.21.4"
   },
   "devDependencies": {
     "@types/node": "^18.11.15",
